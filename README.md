@@ -1,5 +1,5 @@
-# GRPC-CLIENT-SERVER
-Used grpc protocol for client server communication.
+# gRPC-CLIENT-SERVER
+Used gRPC protocol for client server communication.
 Implemented this using golang.
 The client server system can be run on docker containers using docker compose, files(Dockerfile and yml) are provided in the repo.
 
@@ -16,7 +16,7 @@ The client server system can be run on docker containers using docker compose, f
 Basic knowledge of
 1. Docker
 2. Docker-compose
-3. GRPC
+3. gRPC
 4. golang
 
 # Installing
@@ -27,12 +27,12 @@ Basic knowledge of
 # Built With
 1. Docker 
 2. Golang
-3. GRPC
+3. gRPC
 
 # Acknowledgments
 1. Followed Tensor Programming tutorial on YouTube(https://www.youtube.com/channel/UCYqCZOwHbnPwyjawKfE21wg) .
 2. Followed Docker's official Documentation.
 3. Followed freeCodeCamp's article on Docker Compose.
-5. Followed Medium articles for basics of Golang,GRPC,Docker
+5. Followed Medium articles for basics of Golang,gRPC,Docker
 6. Followed Tutorial's point for golang and docker basics;
 7. Took Jaivardhan's help (my friend)
