@@ -5,11 +5,11 @@ The client server system can be run on docker containers using docker compose, f
 
 
 # GETTING STARTED WITH THE PROJECT
-Download all the files from the repo.
-Fire up the Docker QuickStart Terminal.
-Change the working directory to that of intern2 where the docker-compose file is present.
-Run command `docker-compose build`
-Run command `docker-compose up`
+1. Download all the files from the repo.
+2. Fire up the Docker QuickStart Terminal.
+3. Change the working directory to that of intern2 where the docker-compose file is present.
+4. Run command `docker-compose build`
+5. Run command `docker-compose up`
 
 
 # Prerequisites
